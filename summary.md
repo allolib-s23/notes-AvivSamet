@@ -28,6 +28,7 @@ https://github.com/allolib-s23/demo1-AvivSamet/blob/main/tutorials/synthesis/Goo
 This is a piece that I've created as sort of a final project/demo. This is not a musical piece, this is meant to function more as an art piece or an exhibit.
 I am part of A Good Group, a group on campus that promotes positive masculinity and seeks to create a nonjudgemental space for men to explore healthier forms of masculinity.
 One of the things we do is that we take anonymous submissions about masculinity, and then record them and post them to social media. We do this in order to spread awareness.
+For this piece, I took 5 of our submissions and used the technique I've developed in previous pieces to play the audio files from SynthVoice objects, then I also attached graphics to them.
 If I were to develop this further, I would make a full exhibit where viewers are given some prompts and can submit their own thoughts to an anonymous writing portal, and select
 submissions would then be automatically adapted and exhibited in the Allosphere. Viewers could then go into the Allosphere and observe the submissions being presented.
 
