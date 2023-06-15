@@ -37,3 +37,8 @@ Some things I've explored in this piece:
 - The Allosphere as an art medium
 - Creating graphics using audio from a Samplefile
 - Using multiple meshes attached to the same voice
+
+# Final Self Assesment
+
+I believe that I deserve an A- in this class. I have definitely improved a lot during the duration of this course. I am now 
+able to comfortably write in Allolib and solve bugs, and I can produce simple demos in a much shorter timeframe than I could at the beginning of this class. This reason that I am giving myself an A- and not an A is that I feel that I could have put in more effort. If I had put more time into this class then I would have been able to produce more polished demos and come up with better techniques to make the demos I wanted to make. I had the idea for my final demo since almost the beginning, and if I had put more time in then I would have been able to make it sooner and make it better.
